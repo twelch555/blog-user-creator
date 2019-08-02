@@ -1407,7 +1407,7 @@ class Blog_User_Creator {
 	}
 
 }
-$blog_user_creator =& new Blog_User_Creator();
+$blog_user_creator = new Blog_User_Creator();
 
 
 /**
